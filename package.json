@@ -1,0 +1,22 @@
+{
+  "name": "background-gradient-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kvelertak/Background-Gradient-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kvelertak/Background-Gradient-Generator/issues"
+  },
+  "homepage": "https://github.com/Kvelertak/Background-Gradient-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
